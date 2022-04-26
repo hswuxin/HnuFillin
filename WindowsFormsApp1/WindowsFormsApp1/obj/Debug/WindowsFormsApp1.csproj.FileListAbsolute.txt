@@ -39,7 +39,6 @@ C:\Users\王磊\Desktop\疫情填报\自动今日校园2.0\WindowsFormsApp1\Wind
 C:\Users\王磊\Desktop\疫情填报\自动今日校园2.0\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WebDriver.dll
 C:\Users\王磊\Desktop\疫情填报\自动今日校园2.0\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WebDriver.Support.dll
 C:\Users\王磊\Desktop\疫情填报\自动今日校园2.0\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ThoughtWorks.Selenium.Core.xml
-C:\Users\王磊\Desktop\疫情填报\自动今日校园2.0\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WebDriver.xml
 C:\Users\王磊\Desktop\疫情填报\自动今日校园2.0\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WebDriver.Support.xml
 C:\Users\王磊\Desktop\疫情填报\自动今日校园2.0\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
 C:\Users\王磊\Desktop\疫情填报\自动今日校园2.0\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources

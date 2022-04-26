@@ -160,5 +160,10 @@ namespace WindowsFormsApp1
                 MessageBox.Show("写入成功，无需重复写入！");
             }
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            submit();
+        }
     }
 }
